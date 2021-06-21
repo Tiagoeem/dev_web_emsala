@@ -1,0 +1,5 @@
+YAML: https://circleci.com/blog/what-is-yaml-a-beginner-s-guide/
+
+Repo Docker: https://github.com/docker/awesome-compose
+
+Tutorial Samples: https://docs.docker.com/compose/samples-for-compose/

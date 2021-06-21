@@ -1,0 +1,1 @@
+Aqui nesta pasta crie um docker compose que irá iniciar os containers do fast api e o do Flask na mesma rede e com as portas 80, 81 e 82 acessiveis no host

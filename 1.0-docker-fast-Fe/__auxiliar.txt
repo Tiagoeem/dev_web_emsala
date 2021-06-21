@@ -1,0 +1,3 @@
+docker build -t tiagolow/fast_fe_img .
+
+docker run -d --name fast_fe -p 8000:8000 tiagolow/fast_fe_img

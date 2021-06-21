@@ -1,0 +1,8 @@
+bridge: https://docs.docker.com/network/bridge/
+
+network overview: https://docs.docker.com/network/
+
+Checar visibilidade: https://www.digitalocean.com/community/questions/how-to-ping-docker-container-from-another-container-by-name
+Ping
+
+Docker network connect: https://docs.docker.com/engine/reference/commandline/network_connect/

@@ -1,0 +1,5 @@
+https://stackoverflow.com/questions/23799655/a-docker-workflow-for-a-developers-team
+
+https://www.vagrantup.com/docs/provisioning/docker
+
+https://www.docker.com/use-cases/productivity
